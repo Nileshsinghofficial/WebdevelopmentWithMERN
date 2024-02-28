@@ -11,5 +11,6 @@
 div, h2, p{
   color: rgb(243, 192, 42);
    background-color: black;
-  text-align: center;
+   text-align: center;
+   justify-content: center
 }
