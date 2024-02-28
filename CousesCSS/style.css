@@ -1,0 +1,14 @@
+/* FILEPATH: /f:/WebDevelopmentPracticeGit/Couses CSS/style.css */
+
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Add your CSS styles here */
+div, h2, p{
+  color: rgb(243, 192, 42);
+   background-color: black;
+}
