@@ -4,3 +4,9 @@
     box-sizing: border-box;
 }
 
+
+/* text-align property use here */
+h1{
+    color: rgba(228, 186, 47, 0.827);
+    text-align: left; /* text-align propery left/start */
+}
