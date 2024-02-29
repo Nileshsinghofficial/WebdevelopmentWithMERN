@@ -7,10 +7,13 @@
 .normal {
     color: brown;
     font-weight: normal;    /*Default 400*/
+    text-decoration: underline;
 }
 
 .bold {
     font-weight: bold;    /*Default 700*/
+    text-decoration: line-through;
+
 }
 
 .bolder {
