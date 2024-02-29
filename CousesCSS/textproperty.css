@@ -10,6 +10,9 @@ h1{
     color: rgba(228, 186, 47, 0.827);
     /* text-align: left; text-align propery left/start */
     /* text-align: right; text-align propery right/end */
-    text-align: center;  /* text-align propery center */
+    /* text-align: center;  text-align propery center */
+    text-align: justify; /* text-align propery justify */
+    /* Justify they chnage text style like newspaper and magzine */
+
 
 }
