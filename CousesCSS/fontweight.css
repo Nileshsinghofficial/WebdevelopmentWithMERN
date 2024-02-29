@@ -12,12 +12,13 @@
 
 .bold {
     font-weight: bold;    /*Default 700*/
-    text-decoration: line-through;
+    text-decoration: blueviolet line-through;
 
 }
 
 .bolder {
     font-weight: bolder;
+    text-decoration: gold overline;
 }
 
 .lighter {
