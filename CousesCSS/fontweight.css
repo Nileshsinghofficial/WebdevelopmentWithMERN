@@ -6,10 +6,10 @@
 
 .normal {
     color: brown;
-    font-weight: normal;
+    font-weight: normal;    /*Default 400*/
 }
 .bold {
-    font-weight: bold;
+    font-weight: bold;    /*Default 800*/
 }
 .bolder {
     font-weight: bolder;
