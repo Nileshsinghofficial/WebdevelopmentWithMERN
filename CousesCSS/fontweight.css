@@ -4,13 +4,13 @@
     box-sizing: border-box;
 }
 
-.normal{
+.normal {
     color: brown;
     font-weight: normal;
 }
-.bold{
+.bold {
     font-weight: bold;
 }
-.bolder{
+.bolder {
     font-weight: bolder;
 }
