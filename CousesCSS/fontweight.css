@@ -14,3 +14,8 @@
 .bolder {
     font-weight: bolder;
 }
+
+.lighter {
+    font-weight: light;
+    color: violet;
+}
