@@ -19,6 +19,7 @@
 .bolder {
     font-weight: bolder;
     text-decoration: double rgb(143, 143, 28) overline;
+    line-height: 3.4;
 }
 
 .lighter {
