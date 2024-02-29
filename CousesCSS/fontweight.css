@@ -18,7 +18,7 @@
 
 .bolder {
     font-weight: bolder;
-    text-decoration: gold overline;
+    text-decoration: double rgb(143, 143, 28) overline;
 }
 
 .lighter {
