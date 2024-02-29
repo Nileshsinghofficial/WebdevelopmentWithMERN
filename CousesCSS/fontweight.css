@@ -7,7 +7,7 @@
 .normal {
     color: brown;
     font-weight: normal;    /*Default 400*/
-    text-decoration: underline;
+    text-decoration:red underline; /* before underline use color code  */
 }
 
 .bold {
