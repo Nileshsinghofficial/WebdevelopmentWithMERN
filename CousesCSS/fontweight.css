@@ -8,9 +8,11 @@
     color: brown;
     font-weight: normal;    /*Default 400*/
 }
+
 .bold {
-    font-weight: bold;    /*Default 800*/
+    font-weight: bold;    /*Default 700*/
 }
+
 .bolder {
     font-weight: bolder;
 }
@@ -19,3 +21,4 @@
     font-weight: light;
     color: violet;
 }
+
