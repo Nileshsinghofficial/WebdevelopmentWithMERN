@@ -24,8 +24,12 @@
     letter-spacing: 5px; /* 3px = 3 pixel */
 }
 
-.lighter {
+.light {
     font-weight: light;
     color: violet;
 }
 
+.lighter {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
