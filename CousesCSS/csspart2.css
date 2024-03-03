@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
-#myid ,input{
+#myid {
     color: green;
+    font-weight: 800;
 }
